@@ -1,0 +1,11 @@
+Download Git: https://git-scm.com/downloads 
+Introduction to Git: http://rogerdudler.github.io/git-guide/ 
+
+Main git commands:
+git remote add origin <server>
+git status
+git pull
+git add <filename>
+git add *
+git commit -m "blabla"
+git push
