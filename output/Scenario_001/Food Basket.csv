@@ -1,0 +1,116 @@
+Period,Type 1,Item,Type 2,Nutrient,Value
+Apr-17,Commodity,IODISED SALT,Macro, g/p/d,5.0
+Apr-17,Commodity,IODISED SALT,Macro,ENERGY (kcal),0.0
+Apr-17,Commodity,IODISED SALT,Macro,PROTEIN (g),0.0
+Apr-17,Commodity,IODISED SALT,Macro,FAT    (g),0.0
+Apr-17,Commodity,IODISED SALT,Micro,CALCIUM (mg),0.0
+Apr-17,Commodity,IODISED SALT,Micro,IRON (mg),0.0
+Apr-17,Commodity,IODISED SALT,Micro,IODINE (µg),300.0
+Apr-17,Commodity,IODISED SALT,Micro,VIT. A (µg RE),0.0
+Apr-17,Commodity,IODISED SALT,Micro,THIAMINE (mg),0.0
+Apr-17,Commodity,IODISED SALT,Micro,RIBOFLAVIN (mg),0.0
+Apr-17,Commodity,IODISED SALT,Micro,NIACIN (mg),0.0
+Apr-17,Commodity,IODISED SALT,Micro,VIT. C (mg),0.0
+Apr-17,Commodity,SOYA BEAN OIL,Macro, g/p/d,20.88192
+Apr-17,Commodity,SOYA BEAN OIL,Macro,ENERGY (kcal),184.59617280000003
+Apr-17,Commodity,SOYA BEAN OIL,Macro,PROTEIN (g),0.0
+Apr-17,Commodity,SOYA BEAN OIL,Macro,FAT    (g),20.88192
+Apr-17,Commodity,SOYA BEAN OIL,Micro,CALCIUM (mg),0.0
+Apr-17,Commodity,SOYA BEAN OIL,Micro,IRON (mg),0.02088192
+Apr-17,Commodity,SOYA BEAN OIL,Micro,IODINE (µg),0.0
+Apr-17,Commodity,SOYA BEAN OIL,Micro,VIT. A (µg RE),0.0
+Apr-17,Commodity,SOYA BEAN OIL,Micro,THIAMINE (mg),0.0
+Apr-17,Commodity,SOYA BEAN OIL,Micro,RIBOFLAVIN (mg),0.0
+Apr-17,Commodity,SOYA BEAN OIL,Micro,NIACIN (mg),0.0
+Apr-17,Commodity,SOYA BEAN OIL,Micro,VIT. C (mg),0.0
+Apr-17,Commodity,SOYA BEANS,Macro, g/p/d,54.826966
+Apr-17,Commodity,SOYA BEANS,Macro,ENERGY (kcal),228.08017855999998
+Apr-17,Commodity,SOYA BEANS,Macro,PROTEIN (g),20.006359893400003
+Apr-17,Commodity,SOYA BEANS,Macro,FAT    (g),10.932497020400001
+Apr-17,Commodity,SOYA BEANS,Micro,CALCIUM (mg),151.87069582
+Apr-17,Commodity,SOYA BEANS,Micro,IRON (mg),8.607833661999999
+Apr-17,Commodity,SOYA BEANS,Micro,IODINE (µg),3.2896179599999997
+Apr-17,Commodity,SOYA BEANS,Micro,VIT. A (µg RE),3.947541552
+Apr-17,Commodity,SOYA BEANS,Micro,THIAMINE (mg),0.47918768284
+Apr-17,Commodity,SOYA BEANS,Micro,RIBOFLAVIN (mg),0.4769946042
+Apr-17,Commodity,SOYA BEANS,Micro,NIACIN (mg),5.718452553800001
+Apr-17,Commodity,SOYA BEANS,Micro,VIT. C (mg),3.2896179599999997
+Apr-17,Commodity,SUPER CEREAL (CSB+),Macro, g/p/d,60.0
+Apr-17,Commodity,SUPER CEREAL (CSB+),Macro,ENERGY (kcal),225.468
+Apr-17,Commodity,SUPER CEREAL (CSB+),Macro,PROTEIN (g),9.174
+Apr-17,Commodity,SUPER CEREAL (CSB+),Macro,FAT    (g),4.818
+Apr-17,Commodity,SUPER CEREAL (CSB+),Micro,CALCIUM (mg),237.88800000000003
+Apr-17,Commodity,SUPER CEREAL (CSB+),Micro,IRON (mg),5.646
+Apr-17,Commodity,SUPER CEREAL (CSB+),Micro,IODINE (µg),24.0
+Apr-17,Commodity,SUPER CEREAL (CSB+),Micro,VIT. A (µg RE),332.982
+Apr-17,Commodity,SUPER CEREAL (CSB+),Micro,THIAMINE (mg),0.354
+Apr-17,Commodity,SUPER CEREAL (CSB+),Micro,RIBOFLAVIN (mg),0.42599999999999993
+Apr-17,Commodity,SUPER CEREAL (CSB+),Micro,NIACIN (mg),6.63
+Apr-17,Commodity,SUPER CEREAL (CSB+),Micro,VIT. C (mg),60.552
+Apr-17,Commodity,WHEAT FLOUR,Macro, g/p/d,401.6087
+Apr-17,Commodity,WHEAT FLOUR,Macro,ENERGY (kcal),1461.855668
+Apr-17,Commodity,WHEAT FLOUR,Macro,PROTEIN (g),41.486178710000004
+Apr-17,Commodity,WHEAT FLOUR,Macro,FAT    (g),3.93576526
+Apr-17,Commodity,WHEAT FLOUR,Micro,CALCIUM (mg),60.241305000000004
+Apr-17,Commodity,WHEAT FLOUR,Micro,IRON (mg),10.72295229
+Apr-17,Commodity,WHEAT FLOUR,Micro,IODINE (µg),0.0
+Apr-17,Commodity,WHEAT FLOUR,Micro,VIT. A (µg RE),401.6087
+Apr-17,Commodity,WHEAT FLOUR,Micro,THIAMINE (mg),2.2490087200000004
+Apr-17,Commodity,WHEAT FLOUR,Micro,RIBOFLAVIN (mg),1.2048261
+Apr-17,Commodity,WHEAT FLOUR,Micro,NIACIN (mg),19.07641325
+Apr-17,Commodity,WHEAT FLOUR,Micro,VIT. C (mg),0.0
+Apr-17,Statistic,Nutritional Content,Macro,ENERGY (kcal),2100.00001936
+Apr-17,Statistic,Nutritional Requirement,Macro,ENERGY (kcal),2100.0
+Apr-17,Statistic,Nutritional Shortfall,Macro,ENERGY (kcal),0.0
+Apr-17,Statistic,NVS Contribution,Macro,ENERGY (kcal),1.0
+Apr-17,Statistic,Percentage Supplied,Macro,ENERGY (kcal),1.0000000092190475
+Apr-17,Statistic,Nutritional Content,Macro,PROTEIN (g),70.6665386034
+Apr-17,Statistic,Nutritional Requirement,Macro,PROTEIN (g),52.5
+Apr-17,Statistic,Nutritional Shortfall,Macro,PROTEIN (g),0.0
+Apr-17,Statistic,NVS Contribution,Macro,PROTEIN (g),1.0
+Apr-17,Statistic,Percentage Supplied,Macro,PROTEIN (g),1.3460293067314286
+Apr-17,Statistic,Nutritional Content,Macro,FAT    (g),40.568182280399995
+Apr-17,Statistic,Nutritional Requirement,Macro,FAT    (g),40.0
+Apr-17,Statistic,Nutritional Shortfall,Macro,FAT    (g),0.0
+Apr-17,Statistic,NVS Contribution,Macro,FAT    (g),1.0
+Apr-17,Statistic,Percentage Supplied,Macro,FAT    (g),1.0142045570099998
+Apr-17,Statistic,Nutritional Content,Micro,CALCIUM (mg),450.0000008200001
+Apr-17,Statistic,Nutritional Requirement,Micro,CALCIUM (mg),450.0
+Apr-17,Statistic,Nutritional Shortfall,Micro,CALCIUM (mg),0.0
+Apr-17,Statistic,NVS Contribution,Micro,CALCIUM (mg),1.0
+Apr-17,Statistic,Percentage Supplied,Micro,CALCIUM (mg),1.0000000018222224
+Apr-17,Statistic,Nutritional Content,Micro,IRON (mg),24.997667872
+Apr-17,Statistic,Nutritional Requirement,Micro,IRON (mg),22.0
+Apr-17,Statistic,Nutritional Shortfall,Micro,IRON (mg),0.0
+Apr-17,Statistic,NVS Contribution,Micro,IRON (mg),1.0
+Apr-17,Statistic,Percentage Supplied,Micro,IRON (mg),1.1362576305454546
+Apr-17,Statistic,Nutritional Content,Micro,IODINE (µg),327.28961796
+Apr-17,Statistic,Nutritional Requirement,Micro,IODINE (µg),150.0
+Apr-17,Statistic,Nutritional Shortfall,Micro,IODINE (µg),0.0
+Apr-17,Statistic,NVS Contribution,Micro,IODINE (µg),1.0
+Apr-17,Statistic,Percentage Supplied,Micro,IODINE (µg),2.1819307863999997
+Apr-17,Statistic,Nutritional Content,Micro,VIT. A (µg RE),738.538241552
+Apr-17,Statistic,Nutritional Requirement,Micro,VIT. A (µg RE),500.0
+Apr-17,Statistic,Nutritional Shortfall,Micro,VIT. A (µg RE),0.0
+Apr-17,Statistic,NVS Contribution,Micro,VIT. A (µg RE),1.0
+Apr-17,Statistic,Percentage Supplied,Micro,VIT. A (µg RE),1.4770764831040002
+Apr-17,Statistic,Nutritional Content,Micro,THIAMINE (mg),3.08219640284
+Apr-17,Statistic,Nutritional Requirement,Micro,THIAMINE (mg),0.9
+Apr-17,Statistic,Nutritional Shortfall,Micro,THIAMINE (mg),0.0
+Apr-17,Statistic,NVS Contribution,Micro,THIAMINE (mg),1.0
+Apr-17,Statistic,Percentage Supplied,Micro,THIAMINE (mg),3.4246626698222222
+Apr-17,Statistic,Nutritional Content,Micro,RIBOFLAVIN (mg),2.1078207042
+Apr-17,Statistic,Nutritional Requirement,Micro,RIBOFLAVIN (mg),1.4
+Apr-17,Statistic,Nutritional Shortfall,Micro,RIBOFLAVIN (mg),0.0
+Apr-17,Statistic,NVS Contribution,Micro,RIBOFLAVIN (mg),1.0
+Apr-17,Statistic,Percentage Supplied,Micro,RIBOFLAVIN (mg),1.5055862172857144
+Apr-17,Statistic,Nutritional Content,Micro,NIACIN (mg),31.424865803800003
+Apr-17,Statistic,Nutritional Requirement,Micro,NIACIN (mg),13.86
+Apr-17,Statistic,Nutritional Shortfall,Micro,NIACIN (mg),0.0
+Apr-17,Statistic,NVS Contribution,Micro,NIACIN (mg),1.0
+Apr-17,Statistic,Percentage Supplied,Micro,NIACIN (mg),2.267306335050505
+Apr-17,Statistic,Nutritional Content,Micro,VIT. C (mg),63.84161796
+Apr-17,Statistic,Nutritional Requirement,Micro,VIT. C (mg),28.0
+Apr-17,Statistic,Nutritional Shortfall,Micro,VIT. C (mg),0.0
+Apr-17,Statistic,NVS Contribution,Micro,VIT. C (mg),1.0
+Apr-17,Statistic,Percentage Supplied,Micro,VIT. C (mg),2.2800577842857144

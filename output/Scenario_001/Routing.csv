@@ -1,0 +1,101 @@
+O-Type,Origin,D-Type,Destination,Commodity,Time,Metric Tonnes,Cost,Lead Time
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Raqqa,SOYA BEAN OIL,Apr-17,221.33406,35.4134496,1.0
+Discharge Port,LATTAKIA (SYRIA),Extended Delivery Point,<Lattakia EDP>,SOYA BEANS,Apr-17,185.03505,1504.3349565,1.0
+Discharge Port,LATTAKIA (SYRIA),Extended Delivery Point,<Damascus EDP>,SUPER CEREAL (CSB+),Apr-17,4558.9695,136769.085,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Qunaitra,SUPER CEREAL (CSB+),Apr-17,81.613808,13.05820928,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Hassakeh,SOYA BEAN OIL,Apr-17,93.536543,14.96584688,1.0
+Regional Supplier,AMMAN (JORDAN),Extended Delivery Point,<Damascus EDP>,IODISED SALT,Apr-17,637.5,28483.5,5.0
+Discharge Port,LATTAKIA (SYRIA),Discharge Port,LATTAKIA (SYRIA),SUPER CEREAL (CSB+),Mar-17,7650.0,0.0,30
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Raqqa,WHEAT FLOUR,Apr-17,4256.7774,681.084384,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Damascus City,SOYA BEANS,Apr-17,483.56952,77.3711232,1.0
+Discharge Port,MERSIN (TURKEY),Discharge Port,LATTAKIA (SYRIA),SUPER CEREAL (CSB+),Oct-16,7650.0,182146.5,16.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Dara'a,SOYA BEANS,Apr-17,236.68714,37.8699424,1.0
+Discharge Port,LATTAKIA (SYRIA),Discharge Port,LATTAKIA (SYRIA),SUPER CEREAL (CSB+),Oct-16,7650.0,0.0,30
+Discharge Port,TARTOUS (SYRIA),Extended Delivery Point,<Tartous EDP>,SOYA BEAN OIL,Apr-17,910.30793,6099.063131,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Tartous,SUPER CEREAL (CSB+),Apr-17,282.01146,45.1218336,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Rural Damascus,SOYA BEANS,Apr-17,1306.1728,208.987648,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Deir Ezzor,IODISED SALT,Apr-17,54.809877,8.76958032,1.0
+Discharge Port,TARTOUS (SYRIA),Extended Delivery Point,<Damascus EDP>,SOYA BEAN OIL,Apr-17,1038.2771,31148.313,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Idleb,IODISED SALT,Apr-17,29.00249,4.6403984,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Damascus City,IODISED SALT,Apr-17,44.099606,7.05593696,1.0
+Extended Delivery Point,<Lattakia EDP>,Final Delivery Point,Lattakia,SOYA BEAN OIL,Apr-17,70.474207,11.27587312,1.0
+Discharge Port,LATTAKIA (SYRIA),Discharge Port,LATTAKIA (SYRIA),SUPER CEREAL (CSB+),Feb-17,7650.0,0.0,30
+International Supplier,ANTWERP (BELGIUM),Discharge Port,TARTOUS (SYRIA),SOYA BEAN OIL,Mar-17,2591.9705,87841.880245,21.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Qunaitra,SOYA BEANS,Apr-17,74.577291,11.93236656,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Dara'a,IODISED SALT,Apr-17,21.584921,3.45358736,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Qunaitra,SOYA BEAN OIL,Apr-17,28.404216,4.54467456,1.0
+Discharge Port,LATTAKIA (SYRIA),Discharge Port,LATTAKIA (SYRIA),SUPER CEREAL (CSB+),Dec-16,7650.0,0.0,30
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Homs,IODISED SALT,Apr-17,90.839538,14.53432608,1.0
+Extended Delivery Point,<Homs EDP>,Final Delivery Point,Hama,SUPER CEREAL (CSB+),Apr-17,758.56459,121.3703344,1.0
+Extended Delivery Point,<Homs EDP>,Final Delivery Point,Hama,WHEAT FLOUR,Apr-17,5077.4356,812.389696,1.0
+International Supplier,ISTANBUL (TURKEY),Discharge Port,TARTOUS (SYRIA),WHEAT FLOUR,Apr-17,10546.84,351526.1772,11.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Swaida,WHEAT FLOUR,Apr-17,450.14483,72.0231728,1.0
+Discharge Port,LATTAKIA (SYRIA),Extended Delivery Point,<Homs EDP>,SUPER CEREAL (CSB+),Apr-17,1848.639,31925.99553,1.0
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Deir Ezzor,SOYA BEAN OIL,Apr-17,228.90709,36.6251344,1.0
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Deir Ezzor,SOYA BEANS,Apr-17,601.01185,96.161896,1.0
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Raqqa,SOYA BEANS,Apr-17,581.12833,92.9805328,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Hassakeh,IODISED SALT,Apr-17,22.396538,3.58344608,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Qunaitra,IODISED SALT,Apr-17,6.8011506,1.088184096,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Hassakeh,SOYA BEANS,Apr-17,245.58685,39.293896,1.0
+Extended Delivery Point,<Homs EDP>,Final Delivery Point,Homs,WHEAT FLOUR,Apr-17,7296.3897,1167.422352,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Swaida,SOYA BEAN OIL,Apr-17,23.405589,3.74489424,1.0
+Extended Delivery Point,<Homs EDP>,Final Delivery Point,Homs,SOYA BEAN OIL,Apr-17,379.38078,60.7009248,1.0
+Discharge Port,LATTAKIA (SYRIA),Extended Delivery Point,<Lattakia EDP>,SOYA BEAN OIL,Apr-17,70.474207,572.95530291,1.0
+Extended Delivery Point,<Homs EDP>,Final Delivery Point,Homs,SUPER CEREAL (CSB+),Apr-17,1090.0745,174.41192,1.0
+Discharge Port,LATTAKIA (SYRIA),Extended Delivery Point,<Lattakia EDP>,SUPER CEREAL (CSB+),Apr-17,1242.3915,10100.642895,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Dara'a,SOYA BEAN OIL,Apr-17,90.146916,14.42350656,1.0
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Deir Ezzor,WHEAT FLOUR,Apr-17,4402.4247,704.387952,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Qunaitra,WHEAT FLOUR,Apr-17,546.28025,87.40484,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Hama,IODISED SALT,Apr-17,63.213716,10.11419456,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Dara'a,WHEAT FLOUR,Apr-17,1733.7384,277.398144,1.0
+Extended Delivery Point,<Lattakia EDP>,Final Delivery Point,Lattakia,SOYA BEANS,Apr-17,185.03505,29.605608,1.0
+Discharge Port,LATTAKIA (SYRIA),Extended Delivery Point,<Lattakia EDP>,WHEAT FLOUR,Apr-17,8315.9202,67608.431226,1.0
+International Supplier,DJIBOUTI (DJIBOUTI),Discharge Port,TARTOUS (SYRIA),SOYA BEANS,Mar-17,4079.3328,305949.96,33.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Damascus City,WHEAT FLOUR,Apr-17,3542.157,566.74512,1.0
+Extended Delivery Point,<Lattakia EDP>,Final Delivery Point,Aleppo,WHEAT FLOUR,Apr-17,6960.5346,1113.685536,1.0
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Tartous,WHEAT FLOUR,Apr-17,1887.6376,302.022016,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Idleb,SOYA BEANS,Apr-17,318.0237,50.883792,1.0
+Extended Delivery Point,<Lattakia EDP>,Final Delivery Point,Lattakia,WHEAT FLOUR,Apr-17,1355.3857,216.861712,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Rural Damascus,IODISED SALT,Apr-17,119.11774,19.0588384,1.0
+Extended Delivery Point,<Homs EDP>,Final Delivery Point,Hama,SOYA BEANS,Apr-17,693.16325,110.90612,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Swaida,IODISED SALT,Apr-17,5.6042714,0.896683424,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Raqqa,SUPER CEREAL (CSB+),Apr-17,635.95895,101.753432,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Rural Damascus,SUPER CEREAL (CSB+),Apr-17,1429.4128,228.706048,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Aleppo,IODISED SALT,Apr-17,86.658166,13.86530656,1.0
+International Supplier,DJIBOUTI (DJIBOUTI),Discharge Port,LATTAKIA (SYRIA),SOYA BEANS,Mar-17,185.03505,13877.62875,33.0
+Discharge Port,LATTAKIA (SYRIA),Discharge Port,LATTAKIA (SYRIA),SUPER CEREAL (CSB+),Jan-17,7650.0,0.0,30
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Idleb,SOYA BEAN OIL,Apr-17,121.12553,19.3800848,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Hassakeh,WHEAT FLOUR,Apr-17,1798.9289,287.828624,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Swaida,SOYA BEANS,Apr-17,61.45304,9.8324864,1.0
+Discharge Port,LATTAKIA (SYRIA),Discharge Port,LATTAKIA (SYRIA),SUPER CEREAL (CSB+),Nov-16,7650.0,0.0,30
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Damascus City,SOYA BEAN OIL,Apr-17,184.17689,29.4683024,1.0
+Extended Delivery Point,<Homs EDP>,Final Delivery Point,Hama,SOYA BEAN OIL,Apr-17,264.00475,42.24076,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Lattakia,IODISED SALT,Apr-17,16.874456,2.69991296,1.0
+Extended Delivery Point,<Homs EDP>,Final Delivery Point,Homs,SOYA BEANS,Apr-17,996.09125,159.3746,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Rural Damascus,WHEAT FLOUR,Apr-17,9567.7437,1530.838992,1.0
+Discharge Port,TARTOUS (SYRIA),Extended Delivery Point,<Tartous EDP>,SOYA BEANS,Apr-17,2390.0783,16013.52461,1.0
+International Supplier,DJIBOUTI (DJIBOUTI),Discharge Port,BEIRUT (LEBANON),SOYA BEANS,Mar-17,2726.0704,141755.6608,34.0
+Discharge Port,LATTAKIA (SYRIA),Extended Delivery Point,<Damascus EDP>,WHEAT FLOUR,Apr-17,19968.524,599055.72,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Swaida,SUPER CEREAL (CSB+),Apr-17,67.251257,10.76020112,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Hassakeh,SUPER CEREAL (CSB+),Apr-17,268.75846,43.0013536,1.0
+International Supplier,ANTWERP (BELGIUM),Discharge Port,LATTAKIA (SYRIA),SOYA BEAN OIL,Apr-17,70.474207,2388.37087523,20.0
+Discharge Port,BEIRUT (LEBANON),Extended Delivery Point,<Damascus EDP>,SOYA BEANS,Apr-17,2726.0704,98601.966368,5.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Idleb,SUPER CEREAL (CSB+),Apr-17,348.02988,55.6847808,1.0
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Tartous,SOYA BEANS,Apr-17,257.69721,41.2315536,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Idleb,WHEAT FLOUR,Apr-17,2329.5304,372.724864,1.0
+Discharge Port,TARTOUS (SYRIA),Extended Delivery Point,<Homs EDP>,SOYA BEAN OIL,Apr-17,643.38553,8988.0958541,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Damascus City,SUPER CEREAL (CSB+),Apr-17,529.19527,84.6712432,1.0
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Aleppo,SOYA BEAN OIL,Apr-17,361.91777,57.9068432,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Raqqa,IODISED SALT,Apr-17,52.996579,8.47945264,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Tartous,IODISED SALT,Apr-17,23.500955,3.7601528,1.0
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Tartous,SOYA BEAN OIL,Apr-17,98.14901,15.7038416,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Rural Damascus,SOYA BEAN OIL,Apr-17,497.4814,79.597024,1.0
+Discharge Port,LATTAKIA (SYRIA),Extended Delivery Point,<Homs EDP>,WHEAT FLOUR,Apr-17,12373.825,213695.95775,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Dara'a,SUPER CEREAL (CSB+),Apr-17,259.01905,41.443048,1.0
+Extended Delivery Point,<Lattakia EDP>,Final Delivery Point,Aleppo,SUPER CEREAL (CSB+),Apr-17,1039.898,166.38368,1.0
+Extended Delivery Point,<Tartous EDP>,Final Delivery Point,Aleppo,SOYA BEANS,Apr-17,950.24086,152.0385376,1.0
+Discharge Port,TARTOUS (SYRIA),Extended Delivery Point,<Tartous EDP>,WHEAT FLOUR,Apr-17,10546.84,70663.828,1.0
+International Supplier,ISTANBUL (TURKEY),Discharge Port,LATTAKIA (SYRIA),WHEAT FLOUR,Apr-17,40658.269,931887.52548,19.0
+Extended Delivery Point,<Lattakia EDP>,Final Delivery Point,Lattakia,SUPER CEREAL (CSB+),Apr-17,202.49347,32.3989552,1.0
+Discharge Port,TARTOUS (SYRIA),Extended Delivery Point,<Homs EDP>,SOYA BEANS,Apr-17,1689.2545,23598.885365,1.0
+Extended Delivery Point,<Damascus EDP>,Final Delivery Point,Deir Ezzor,SUPER CEREAL (CSB+),Apr-17,657.71853,105.2349648,1.0
